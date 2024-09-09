@@ -1,30 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil GitHub</title>
-</head>
-<body>
+## Hi there 👋
 
-    <h1>Hi there 👋</h1>
+**MateusVferreira/MateusVferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-    <p><strong>MateusVferreira/MateusVferreira</strong> is a ✨ <em>special</em> ✨ repository because its `README.md` (this file) appears on your GitHub profile.</p>
+Here are some ideas to get you started:
 
-    <h2>Linguagens mais usadas</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVferreira&layout=compact" alt="Linguagens mais usadas" />
+## Linguagens mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVferreira&layout=compact)
 
-    <ul>
-        <li>🔭 I’m currently working on ...</li>
-        <li>🌱 I’m currently learning ...</li>
-        <li>👯 I’m looking to collaborate on ...</li>
-        <li>🤔 I’m looking for help with ...</li>
-        <li>💬 Ask me about ...</li>
-        <li>📫 How to reach me: ...</li>
-        <li>😄 Pronouns: ...</li>
-        <li>⚡ Fun fact: ...</li>
-    </ul>
-
-</body>
-</html>
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
