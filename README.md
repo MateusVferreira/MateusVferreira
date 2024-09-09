@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 ## Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVferreira&layout=compact)
 
+![Gráfico de Pizza](https://quickchart.io/chart/render/sf-d47f3b6c-64b7-4771-9eec-678cafbb1dfe)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
