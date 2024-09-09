@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+## Linguagens mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVferreira&layout=compact)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
